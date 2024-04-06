@@ -6,8 +6,8 @@ This project aims to implement and compare distributed algorithms for approximat
 ## Part 1: Distributed Triangle Counting with Apache Spark: Node Coloring vs. Spark Partitions
 This part implements and compares two distributed algorithms:
 
-- **MR_ApproxTCwithNodeColors**: Utilizes node coloring to assign colors to vertices and aggregates triangles based on these colors.
-- **MR_ApproxTCwithSparkPartitions**: Employs Spark's partitioning mechanism to distribute computation efficiently across the cluster.
+- `MR_ApproxTCwithNodeColors`: Utilizes node coloring to assign colors to vertices and aggregates triangles based on these colors.
+- `MR_ApproxTCwithSparkPartitions`: Employs Spark's partitioning mechanism to distribute computation efficiently across the cluster.
 
 The implementation leverages Spark's parallel processing capabilities, utilizing functions such as `mapPartitionsWithIndex` and `groupByKey`, along with error handling for input parameters and file validation.
 
