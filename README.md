@@ -25,7 +25,7 @@ This part processes an unbounded stream of data in batches using Apache Spark's 
 ## Keywords
 Big Data computing
 
-## Software and Tools:
+## Software and Tools
 - Apache Spark
 - Python (PySpark)
 - CloudVeneto (OpenStack-based cloud)
