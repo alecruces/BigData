@@ -21,5 +21,4 @@ ii.	Python: PySpark
 iii.	CloudVeneto: It is an OpenStack-based cloud. It allows the instantiation of Virtual Machines (VMs).
 iv.	Streaming Spark's StreamingContext,: This enables the processing of continuous data streams in real-time.
 d.	Files: Code
-e.	Technical Information: https://github.com/enricobolzonello/bigdata_homeworks?tab=readme-ov-file#organization-of-the-repository
-![image](https://github.com/alecruces/Big-Data-Computing/assets/67338986/19a34a48-8f3f-4ef6-89e7-c8eee01109df)
+e.	
