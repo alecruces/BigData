@@ -14,8 +14,8 @@ The implementation leverages Spark's parallel processing capabilities, utilizing
 ## Part 2: Triangle Counting in CloudVeneto Cluster
 This part runs a Spark program on the CloudVeneto cluster to estimate the number of triangles in an undirected graph 𝐺=(𝑉,𝐸) using two algorithms:
 
-- 'MR_ApproxTCwithNodeColors': Utilizes node coloring to assign colors to vertices and aggregates triangles based on these colors.
-- 'MR_ExactTC': Precisely counts triangles in the graph by exhaustively examining all possible triangles.
+- `MR_ApproxTCwithNodeColors`: Utilizes node coloring to assign colors to vertices and aggregates triangles based on these colors.
+- `MR_ExactTC`: Precisely counts triangles in the graph by exhaustively examining all possible triangles.
 
 Both algorithms leverage Apache Spark's parallel processing capabilities across the cluster. The code also includes functionality to measure execution time and provides options for performance evaluation.
 
