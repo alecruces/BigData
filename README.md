@@ -1,4 +1,5 @@
 # Exploring Distributed Triangle Counting and Stream Processing with Spark
+![BigData](https://github.com/alecruces/BigData/assets/67338986/5de401e2-92b0-4340-b651-d2385adda1e1)
 
 ## Description
 This project aims to implement and compare distributed algorithms for approximating the number of triangles in a graph using Apache Spark. It consists of several parts:
