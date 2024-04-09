@@ -36,4 +36,7 @@ Big Data computing
 The data used in this project is private and cannot be uploaded.
 
 ## Files:
-Code
+Code:
+1. Part 1: counting_triangles.py
+2. Part 2: streaming.py
+3. Part 3: counting_triangles_cloudveneto.py
