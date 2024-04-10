@@ -1,8 +1,13 @@
 # Exploring Distributed Triangle Counting and Stream Processing with Spark
-![BigData](https://github.com/alecruces/BigData/assets/67338986/5de401e2-92b0-4340-b651-d2385adda1e1)
+---
 
 ## Description
 This project aims to implement and compare distributed algorithms for approximating the number of triangles in a graph using Apache Spark. It consists of several parts:
+
+<p align="center">
+<img src="https://github.com/alecruces/BigData/assets/67338986/5de401e2-92b0-4340-b651-d2385adda1e1" alt="BigData" style="width:400px;height:auto;"/>
+</p>
+
 
 ## Part 1: Distributed Triangle Counting with Apache Spark: Node Coloring vs. Spark Partitions
 This part implements and compares two distributed algorithms:
@@ -37,6 +42,6 @@ The data used in this project is private and cannot be uploaded.
 
 ## Files:
 Code:
-1. Part 1: counting_triangles.py
-2. Part 2: streaming.py
-3. Part 3: counting_triangles_cloudveneto.py
+1. Part 1: `counting_triangles.py`
+2. Part 2: `streaming.py`
+3. Part 3: `counting_triangles_cloudveneto.py`
